@@ -19,7 +19,7 @@ Instrucciones para el proceso de instalación.
 3) chmod 777 Automatizador.sh o nmap.sh
 4) ejecuta uno de los scripts que quieras usar con ./Automatizador.sh o ./nmap.sh
 -------------------------------------------------------------------------------------
-O puedes descargar solo el archivo AUtomatizador.sh     
+O puedes descargar solo el archivo Automatizador.sh     
 ## Authors
 
 - [@miguelpujol11](https://github.com/miguelpujol11)
