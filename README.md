@@ -9,7 +9,7 @@ Estos proyectos de BASH esta echo para la ayuda de la automatizacion de principi
 
 
 
-La instalacion con GIT incluye "automatizador.sh y nmap.sh" 
+Instrucciones para el proceso de instalación.
 
 
 ```
