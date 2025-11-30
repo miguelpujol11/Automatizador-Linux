@@ -1,7 +1,7 @@
 
 # Bash
 
-Estos proyectos de BASH esta echo para la ayuda de la automatizacion de principiantes de linux.
+Este proyectos de BASH esta echo para la ayuda de la automatizacion de procesos de linux basicos del sistema.
 
 
 
